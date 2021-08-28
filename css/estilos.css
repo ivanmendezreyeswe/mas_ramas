@@ -1,0 +1,28 @@
+h1{
+    color: rgb(75, 224, 119);
+}
+
+a{
+    color: rgb(100, 151, 228);
+    font-style: oblique;
+    font-size: 19px;
+}
+
+.contenedor{
+    
+    background-color: rgb(120, 57, 223);
+    text-align: center;
+    width: 1200px;
+    margin: auto;
+}
+
+footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(33, 71, 71);
+    width: auto;
+}
+
+.leer:hover{
+    color:rgb(0, 0, 0);
+    background: rgb(128, 119, 0);
+}
